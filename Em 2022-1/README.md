@@ -68,7 +68,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 <div>
     <ul>
       <li>
-        <b> Python: Desenvolvimento web Back-End.</b>  
+        <b> Python: Utilizado para 'raspagem de dados'.</b>  
       </li>
     </ul>
   </span>
