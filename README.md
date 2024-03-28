@@ -3,19 +3,16 @@
 
 <h1 align="center">Diane Alves Moreno Pinto</h1>
 
-<p align="center">
-<a href ="introducao"> Introdução </a>/
-<a href ="contatos"> Contatos </a>/
-<a href ="conhecimentos"> Meus Principais Conhecimentos </a>
-<br>
-<COLOCAR PASTA>
-</COLOCAR>
-</p>
-
-<span id="introducao">
-
 <h2 align="center">Introdução</h2>
 <div align="center"><img src="https://avatars.githubusercontent.com/u/102235722?v=4" width="200" height="200"/></div>
 <p>
-  Estudante de Analise e Desenvolvimento de Sistemas - FATEC São José dos Campos - Prof. Jessen Vidal, já cursei Computação Grafica na instituição Advanced Computação Gráfica de Artes durante dois anos
+  Estudante do 5º semetre de Analise e Desenvolvimento de Sistemas - FATEC São José dos Campos - Prof. Jessen Vidal, minha jornada começou com este curso, que representou meu primeiro contato significativo com a tecnologia, onde pude explorar e desenvolver habilidades. A diversidade de metodologias apresentadas ampliou minha visão sobre as possibilidades existentes nesta área. Também cursei Computação Grafica na instituição Advanced Computação Gráfica de Artes, durante dois anos, explorei ferramentas e técnicas para criar imagens, animações e efeitos visuais. Trabalhei na posição de jovem aprendiz como auxiliar de vendas. Esta experiência, embora não diretamente relacionada à tecnologia, desempenhou um papel fundamental em minha formação. Como auxiliar de vendas, aprimorei minhas habilidades de comunicação. Também aprendi a valorizar a diversidade de habilidades e perspectivas que cada membro da equipe trazia, e como isso enriquecia nossos esforços coletivos. 
 </p>
+
+<br>
+
+<h2 align='center'>Contatos</h2>
+<div align="center">
+    <a href="https://www.linkedin.com/in/diane-alves-38b6761ba/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:diane.moreno0422@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
