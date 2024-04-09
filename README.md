@@ -1,5 +1,4 @@
 # Portfolio-Diane
-<h1 align="center">Portfólio da disciplina Trabalho de Graduação do curso Analise e Desenvolvimento de Sistemas - FATEC São José dos Campos - Prof. Jessen Vidal</h1>
 
 <h1 align="center">Diane Alves Moreno Pinto</h1>
 
