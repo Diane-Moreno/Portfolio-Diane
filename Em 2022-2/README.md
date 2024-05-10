@@ -6,7 +6,9 @@ text
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 
-(vídeo)
+- Cadastro
+
+(https://raw.githubusercontent.com/4DeskGroup/API-2022.2/main/doc/sprint%204/gifs/Politica%20de%20Privacidade%20e%20Termos%20de%20Uso.gif)
 
 <h1></h1>
 
