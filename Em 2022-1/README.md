@@ -6,19 +6,15 @@ Desafio proposto internamente pela Fatec, este projeto teve como objetivo a cria
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 
-- Página inicial
 
 ![Home1](https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif)
 
-- Vagas
   
 ![Vagas1](https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif)
 
-- Cursos
   
 ![Cursosq](https://user-images.githubusercontent.com/100849359/172060863-0a367980-76e4-49b9-b130-706e255ce7c2.gif)
  
-- Metricas
   
 ![Metricas](https://user-images.githubusercontent.com/100849359/172064402-4443fe7e-b84e-432e-8308-e2925bc4a040.gif)
 
