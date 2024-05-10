@@ -6,9 +6,7 @@ text
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 
-- Cadastro
-
-(https://raw.githubusercontent.com/4DeskGroup/API-2022.2/main/doc/sprint%204/gifs/Politica%20de%20Privacidade%20e%20Termos%20de%20Uso.gif)
+https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%204/gifs/Valida%C3%A7%C3%A3o%20de%20Email%20no%20Cadastro.gif
 
 <h1></h1>
 
