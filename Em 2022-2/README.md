@@ -1,12 +1,14 @@
-###  - 2022-2
+### Aplicação desktop para integração de registros de vendas - 2022-2
 
 ### Desafio
 
-text
+O desafio proposto envolveu a colaboração com o cliente Track Cash. O foco principal era desenvolver uma aplicação desktop que permitisse a integração dos registros de vendas de diferentes canais. O objetivo era fornecer ao cliente uma plataforma onde ele pudesse acessar e interagir com as informações de vendas desses canais.
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 
-https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%204/gifs/Valida%C3%A7%C3%A3o%20de%20Email%20no%20Cadastro.gif
+![Politica de Privacidade e Termos de Uso](https://github.com/Diane-Moreno/Portfolio-Diane/assets/102235722/ea380354-2ec0-4670-8c96-1a7fb7b96e57)
+
+![Editar o Perfil do Usuário](https://github.com/Diane-Moreno/Portfolio-Diane/assets/102235722/fedb8d4e-b822-434d-bc37-22e845467b7c)
 
 <h1></h1>
 
@@ -14,7 +16,7 @@ https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%204/gifs/Valida%C3
 <div>
     <ul>
       <li>
-        <b> tec </b>  
+        <b> Figma: Utilizado para criação do protótipo. </b>  
       </li>
     </ul>
   </span>
@@ -22,7 +24,7 @@ https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%204/gifs/Valida%C3
 <div>
     <ul>
       <li>
-        <b> tec </b>  
+        <b> Java: Linguagem de programação </b>  
       </li>
     </ul>
   </span>
@@ -30,7 +32,7 @@ https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%204/gifs/Valida%C3
 <div>
     <ul>
       <li>
-        <b> tec </b>  
+        <b> NetBeans: </b>  
       </li>
     </ul>
   </span>
@@ -38,26 +40,11 @@ https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%204/gifs/Valida%C3
 <div>
     <ul>
       <li>
-        <b> tec </b>  
+        <b> MySQL: </b>  
       </li>
     </ul>
   </span>
 </div>
-<div>
-    <ul>
-      <li>
-        <b> tec </b>  
-      </li>
-    </ul>
-  </span>
-</div>
-<div>
-    <ul>
-      <li>
-        <b> tec </b>  
-      </li>
-    </ul>
-  </span>
 </div>
 
 <h1></h1>
