@@ -88,7 +88,7 @@ Fiz parte do Scrum Team, fui responsável por algumas partes de desenvolvimento,
 
 ### Soft Skills
 <ul>
-  <li><b>Comunicação</b> - Pratiquei minhas habilidades de comunicação com a equipe, visando garantir um entendimento mais claro entre todos os membros e promover uma organização mais eficiente do grupo.</li>
-  <li><b>Empatia</b> - Durante o desenvolvimento, reconheci os conhecimentos individuais de cada membro. Colaborando e apoiando todos da equipe, levando em consideração suas necessidades únicas.</li>
+  <li><b>Comunicação</b> - Pratiquei minhas habilidades de comunicação com a equipe durante as reuniões e surgimento de dúvidas ao longo das sprints, visando garantir um entendimento mais claro entre todos os membros e promover uma organização mais eficiente do grupo.</li>
+  <li><b>Empatia</b> - Durante o desenvolvimento, com surgimento de conflitos, reconheci os conhecimentos individuais de cada membro. Colaborando e apoiando todos da equipe, levando em consideração suas necessidades únicas.</li>
   <li><b>Trabalho em equipe</b> - Exercitei habilidades em trabalho em equipe ao colaborar de forma eficaz e harmoniosa, dividindo tarefas de acordo com a disponibilidade de cada integrante.</li>
 </ul>
