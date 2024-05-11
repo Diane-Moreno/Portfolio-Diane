@@ -45,7 +45,15 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
     </ul>
   </span>
 </div>
+<div>
+    <ul>
+      <li>
+        <b> GitHub:</b> Hospedagem do código.   
+      </li>
+    </ul>
+  </span>
 </div>
+
 
 <h1></h1>
 
