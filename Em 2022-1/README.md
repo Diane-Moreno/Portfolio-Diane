@@ -24,7 +24,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 <div>
     <ul>
       <li>
-        <b> HTML: Estruturação da página web.</b>  
+        <b> HTML:</b> Estruturação da página web.  
       </li>
     </ul>
   </span>
@@ -32,7 +32,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 <div>
     <ul>
       <li>
-        <b> CSS: Estilização da página web.</b>  
+        <b> CSS:</b> Estilização da página web.  
       </li>
     </ul>
   </span>
@@ -40,7 +40,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 <div>
     <ul>
       <li>
-        <b> GitHub: Hospedagem do código.</b>  
+        <b> GitHub:</b> Hospedagem do código.
       </li>
     </ul>
   </span>
@@ -48,7 +48,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 <div>
     <ul>
       <li>
-        <b> Figma: Utilizado para criação do  protótipo.</b>  
+        <b> Figma:</b> Utilizado para criação do  protótipo.
       </li>
     </ul>
   </span>
@@ -56,7 +56,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 <div>
     <ul>
       <li>
-        <b> Visual Studio Code: Editor do código.</b>  
+        <b> Visual Studio Code:</b> Editor do código.
       </li>
     </ul>
   </span>
@@ -64,7 +64,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 <div>
     <ul>
       <li>
-        <b> Python: Utilizado para 'raspagem de dados'.</b>  
+        <b> Python:</b> Utilizado para 'raspagem de dados'. 
       </li>
     </ul>
   </span>
@@ -79,16 +79,16 @@ Fiz parte do Scrum Team, fui responsável por algumas partes de desenvolvimento,
 
 ### Hard Skills
 <ul>
-  <li><b>Raspagem de dados usando Python</b> - Faço com auxílio.</li>
-  <li><b>Desenvolvimento de páginas web usando HTML</b> - Faço com autonomia.</li>
-  <li><b>Estilização de páginas web usando CSS</b> - Faço com autonomia.</li>
+  <li><b>Raspagem de dados usando Python -</b> Faço com auxílio.</li>
+  <li><b>Desenvolvimento de páginas web usando HTML -</b> Faço com autonomia.</li>
+  <li><b>Estilização de páginas web usando CSS -</b> Faço com autonomia.</li>
 </ul>
 
 <h1></h1>
 
 ### Soft Skills
 <ul>
-  <li><b>Comunicação</b> - Pratiquei minhas habilidades de comunicação com a equipe durante as reuniões e surgimento de dúvidas ao longo das sprints, visando garantir um entendimento mais claro entre todos os membros e promover uma organização mais eficiente do grupo.</li>
-  <li><b>Empatia</b> - Durante o desenvolvimento, com surgimento de conflitos, reconheci os conhecimentos individuais de cada membro. Colaborando e apoiando todos da equipe, levando em consideração suas necessidades únicas.</li>
-  <li><b>Trabalho em equipe</b> - Exercitei habilidades em trabalho em equipe ao colaborar de forma eficaz e harmoniosa, dividindo tarefas de acordo com a disponibilidade de cada integrante.</li>
+  <li><b>Comunicação -</b> Pratiquei minhas habilidades de comunicação com a equipe durante as reuniões e surgimento de dúvidas ao longo das sprints, visando garantir um entendimento mais claro entre todos os membros e promover uma organização mais eficiente do grupo.</li>
+  <li><b>Empatia -</b> Durante o desenvolvimento, com surgimento de conflitos, reconheci os conhecimentos individuais de cada membro. Colaborando e apoiando todos da equipe, levando em consideração suas necessidades únicas.</li>
+  <li><b>Trabalho em equipe -</b> Exercitei habilidades em trabalho em equipe ao colaborar de forma eficaz e harmoniosa, dividindo tarefas de acordo com a disponibilidade de cada integrante.</li>
 </ul>
