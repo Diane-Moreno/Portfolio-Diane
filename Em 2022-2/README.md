@@ -16,7 +16,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 <div>
     <ul>
       <li>
-        <b> Figma: Utilizado para criação do protótipo. </b>  
+        <b> Figma:</b> Utilizado para criação do protótipo.   
       </li>
     </ul>
   </span>
@@ -24,7 +24,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 <div>
     <ul>
       <li>
-        <b> Java: Linguagem de programação </b>  
+        <b> Java:</b> Linguagem de programação para o desenvolvimento do software desktoop.  
       </li>
     </ul>
   </span>
@@ -32,7 +32,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 <div>
     <ul>
       <li>
-        <b> NetBeans: </b>  
+        <b> NetBeans:</b> Ferramenta utilizada na elaboração do código do projeto.   
       </li>
     </ul>
   </span>
@@ -40,7 +40,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 <div>
     <ul>
       <li>
-        <b> MySQL: </b>  
+        <b> MySQL:</b> Banco de dados. 
       </li>
     </ul>
   </span>
@@ -50,22 +50,21 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 <h1></h1>
 
 ### Contribuições Pessoais
-Fiz parte do Scrum Team, fui responsável por algumas partes de desenvolvimento, como 
+Fiz parte do Scrum Team, concentrando-me especialmente no frontend e na interface gráfica do usuário (GUI). Utilizei código Java e algumas facilidades oferecidas pelo ambiente de desenvolvimento NetBeans.
 
 <h1></h1>
 
 ### Hard Skills
 <ul>
-  <li><b></b> - Faço com auxílio.</li>
-  <li><b></b> - Faço com autonomia.</li>
-  <li><b></b> - Faço com autonomia.</li>
+  <li><b>Desenvolvimento de telas utilizando Java -</b>  Faço com auxílio.</li>
+  <li><b>Utilização do NetBeans -</b>  Faço com auxílio.</li>
 </ul>
 
 <h1></h1>
 
 ### Soft Skills
 <ul>
-  <li><b>Comunicação</b> - </li>
-  <li><b>Empatia</b> - </li>
-  <li><b>Trabalho em equipe</b> - </li>
+  <li><b>Comunicação -</b> Adotei uma abordagem de comunicação aberta e transparente, garantindo que todos da equipe estivessem informados sobre minhas dúvidas, desafios e progresso.</li>
+  <li><b>Proatividade -</b> Ao perceber um possível problema, tomamos a iniciativa de realocar as ideias e possíveis soluções de maneira eficaz, garantindo que o projeto permanecesse dentro do cronograma. A proatividade ajudou a evitar contratempos significativos e a manter o progresso do projeto sem interrupções. </li>
+  <li><b>Trabalho em equipe -</b> Colaborei com todos da equipe. Contribuindo de forma eficaz para o projeto, compartilhando conhecimento, resolvendo problemas em conjunto e divindo tarefas. </li>
 </ul>
