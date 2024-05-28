@@ -38,7 +38,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <div>
     <ul>
       <li>
-        <b> JavaScript: </b> Utilizado para desenvolvimento da aplicação web.
+        <b> JavaScript: </b> Utilizado para desenvolvimento.
       </li>
     </ul>
   </span>
@@ -86,7 +86,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <div>
     <ul>
       <li>
-        <b> Canva: </b> Criação de apresentaçõe e imagens.
+        <b> Canva: </b> Criação de apresentações e imagens.
       </li>
     </ul>
   </span>
