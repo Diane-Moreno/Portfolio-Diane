@@ -38,5 +38,6 @@
  | [2° Semestre](https://github.com/Diane-Moreno/Portfolio-Diane/tree/main/Em%202022-2)   | Aplicação desktop para integração de registros de vendas |
  | [3° Semestre](https://github.com/Diane-Moreno/Portfolio-Diane/tree/main/Em%202023-1)   | Sistema de gerenciamento de usuários baseado em micro serviços |
  | [4° Semestre](https://github.com/Diane-Moreno/Portfolio-Diane/tree/main/Em%202023-2)   | Plataforma de gerenciamento de créditos para reciclagem de óleo |
+ | [5° Semestre](https://github.com/Diane-Moreno/Portfolio-Diane/tree/main/Em%202024-1)   | Sistema de gerenciamento de parceiros |
  
 </div>
