@@ -70,22 +70,6 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <div>
     <ul>
       <li>
-        <b> HTML5: </b> Estruturação de interfaces.
-      </li>
-    </ul>
-  </span>
-</div>
-<div>
-    <ul>
-      <li>
-        <b> CSS3: </b> Estilização de interfaces.
-      </li>
-    </ul>
-  </span>
-</div>
-<div>
-    <ul>
-      <li>
         <b> Canva: </b> Criação de apresentações e imagens.
       </li>
     </ul>
@@ -102,9 +86,8 @@ Como integrante do Scrum Team, concentrei-me no desenvolvimento do front-end, ut
 <ul>
   <li><b> Utilização React Native -</b> Faço com autonomia.</li>
   <li><b> Utilização Java Script -</b> Faço com autonomia.</li>
-  <li><b> Utilização HTML5 -</b> Faço com autonomia.</li>
-  <li><b> Utilização CSS3 -</b> Faço com autonomia.</li>
   <li><b> Utilização Git Hub -</b> Faço com autonomia.</li>
+  <li><b> Utilização NodeJs -</b> Faço com auxilio.</li>
 </ul>
 
 <h1></h1>
