@@ -73,7 +73,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 <h1></h1>
 
 ### Contribuições Pessoais
-Fiz parte do Scrum Team, fui responsável por algumas partes de desenvolvimento, como criar página front-end utilizando HTML e CSS seguindo o modelo do prótotipo e atendendo as necessidades do cliente, também contribui com a raspagem de dados utilizando Python.
+Fiz parte do Scrum Team, onde desempenhei diversas funções para o projeto. Fui responsável por várias partes do desenvolvimento, destacando-se a criação de páginas front-end utilizando HTML e CSS. Nesse processo, segui s modelo do protótipo fornecido, garantindo que as necessidades e expectativas do cliente fossem atendidas com precisão e qualidade. Além das atividades de front-end, também contribuí significativamente com a raspagem de dados, utilizando Python.
 
 <h1></h1>
 
