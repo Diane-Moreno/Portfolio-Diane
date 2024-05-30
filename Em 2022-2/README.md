@@ -58,7 +58,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 <h1></h1>
 
 ### Contribuições Pessoais
-Fiz parte do Scrum Team, concentrando-me especialmente no front-end e na interface gráfica do usuário (GUI). Utilizei código Java e algumas facilidades oferecidas pelo ambiente de desenvolvimento NetBeans.
+Fiz parte do Scrum Team, concentrando-me especialmente no front-end e na interface gráfica do usuário (GUI). Utilizei código Java e algumas facilidades oferecidas pelo ambiente de desenvolvimento NetBeans.  Além disso, participei das reuniões e revisões das sprints, contribuindo para a melhoria contínua do processo de desenvolvimento e da qualidade do produto final.
 
 <h1></h1>
 
