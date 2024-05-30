@@ -75,7 +75,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2023.1)
 <h1></h1>
 
 ### Contribuições Pessoais
-Fiz parte do Scrum Team, focando no front-end, desenvolvi interfaces utilizando React e JavaScript seguindo o protótipo e especificações do cliente. Nessa função, estive envolvido de forma ativa na concepção, aprimoramento e desenvolvimento das telas ao longo das sprints.
+Fiz parte do Scrum Team, focando no front-end, desenvolvi interfaces utilizando React e JavaScript. Nessa função, estive envolvido de forma ativa na concepção, aprimoramento e desenvolvimento das telas ao longo das sprints. Minha participação começou com a análise dos requisitos e protótipo fornecido, garantindo que todas as especificações fossem claramente compreendidas.
 <h1></h1>
 
 ### Hard Skills
