@@ -95,6 +95,6 @@ Como integrante do Scrum Team, concentrei-me no desenvolvimento do front-end, ut
 ### Soft Skills
 <ul>
   <li><b>Trabalho em equipe -</b> Colaborei com toda a equipe, contribuindo de maneira eficiente para o projeto, compartilhando conhecimento, resolvendo problemas coletivamente e distribuindo tarefas de forma equilibrada. </li>
-  <li><b>Comunicação -</b> Ao longo das iterações, exercitei técnicas de comunicação em nossa equipe, com o intuito de promover uma compreensão mais nítida entre todos os participantes, mantendo sempre a sensibilidade para compreender as dificuldades enfrentadas. </li>
+  <li><b>Comunicação -</b> Em uma das sprints, nos deparamos com um problema relacionado à integração do front-end com o back-end, especialmente nas funcionalidades de atualização de informações dos parceiros. Usei minhas habilidades de comunicação para intermediar a troca de informações entre os desenvolvedores back-end e front-end, facilitando a compreensão mútua das questões técnicas. </li>
   <li><b>Empatia -</b> Ao longo do processo de crescimento, ao nos depararmos com desafios, valorizei a diversidade de habilidades de cada integrante. Juntos, trabalhamos em conjunto, atentos às particularidades de cada um, para garantir apoio mútuo e colaboração plena. </li>
 </ul>
