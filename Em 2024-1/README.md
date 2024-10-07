@@ -75,6 +75,14 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
     </ul>
   </span>
 </div>
+<div>
+    <ul>
+      <li>
+        <b> AWS: </b> Hospedagem da aplicação.
+      </li>
+    </ul>
+  </span>
+</div>
 
 <h1></h1>
 
@@ -95,6 +103,6 @@ Como integrante do Scrum Team, concentrei-me no desenvolvimento do front-end, ut
 ### Soft Skills
 <ul>
   <li><b>Trabalho em equipe -</b> Durante o desenvolvimento das telas de cadastro de parceiros, houve uma discussão na equipe sobre a melhor forma de organizar os campos para tornar o preenchimento mais rápido e intuitivo. A equipe se reuniu para revisar o protótipo inicial e testar diferentes abordagens de layout. Todos colaboraram revisando o fluxo de navegação e ajustando o espaçamento entre os elementos para otimizar a usabilidade. Através desse trabalho conjunto, foi possível criar uma interface mais eficiente, resultando em um processo de cadastro mais ágil e satisfatório para os usuários. </li>
-  <li><b>Comunicação -</b> Em uma das sprints, nos deparamos com um problema relacionado à integração do front-end com o back-end, especialmente nas funcionalidades de atualização de informações dos parceiros. Usei minhas habilidades de comunicação para intermediar a troca de informações entre os desenvolvedores back-end e front-end, facilitando a compreensão mútua das questões técnicas. </li>
+  <li><b>Comunicação -</b> Em uma das sprints, nos deparamos com um problema relacionado à integração do front-end com o back-end. Usei minhas habilidades de comunicação para intermediar a troca de informações entre os desenvolvedores back-end e front-end, facilitando a compreensão mútua das questões técnicas. Utilizamos AWS para hospedar a aplicação e conectar com o banco de dados, back-end e front-end. </li>
   <li><b>Empatia -</b> Durante o projeto, notei que um dos membros da equipe estava enfrentando dificuldades com sua tarefa no React Native. Ofereci suporte e ajuda. Essa abordagem empática permitiu que todos mantivessem um ritmo saudável no projeto, sem comprometer a qualidade ou os prazos das atividades. </li>
 </ul>
