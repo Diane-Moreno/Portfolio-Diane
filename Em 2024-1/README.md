@@ -4,6 +4,10 @@
 
 O projeto consiste na criação de um sistema mobile para a Oracle destinado à gestão de parceiros. Esse sistema permitirá o cadastro de novos parceiros, a atualização de suas informações, o acompanhamento do desenvolvimento de suas competências e a geração de relatórios relevantes.
 
+### Solução
+
+A equipe desenvolveu um sistema mobile que facilita a gestão completa dos parceiros da Oracle. A solução inclui o cadastro de novos parceiros, a atualização de dados em tempo real, o monitoramento do progresso de suas qualificações e a geração automática de relatórios, garantindo uma gestão mais eficiente e integrada.
+
 Repositório do projeto (https://github.com/atomofatec/API-ORACLE)
 
 https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e-4c50-ba11-82d906f48f33
