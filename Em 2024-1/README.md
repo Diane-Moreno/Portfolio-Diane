@@ -94,7 +94,7 @@ Como integrante do Scrum Team, concentrei-me no desenvolvimento do front-end, ut
 
 ### Soft Skills
 <ul>
-  <li><b>Trabalho em equipe -</b> Colaborei com toda a equipe, contribuindo de maneira eficiente para o projeto, compartilhando conhecimento, resolvendo problemas coletivamente e distribuindo tarefas de forma equilibrada. </li>
+  <li><b>Trabalho em equipe -</b> Durante o desenvolvimento das telas de cadastro de parceiros, houve uma discussão na equipe sobre a melhor forma de organizar os campos para tornar o preenchimento mais rápido e intuitivo. A equipe se reuniu para revisar o protótipo inicial e testar diferentes abordagens de layout. Todos colaboraram revisando o fluxo de navegação e ajustando o espaçamento entre os elementos para otimizar a usabilidade. Através desse trabalho conjunto, foi possível criar uma interface mais eficiente, resultando em um processo de cadastro mais ágil e satisfatório para os usuários. </li>
   <li><b>Comunicação -</b> Em uma das sprints, nos deparamos com um problema relacionado à integração do front-end com o back-end, especialmente nas funcionalidades de atualização de informações dos parceiros. Usei minhas habilidades de comunicação para intermediar a troca de informações entre os desenvolvedores back-end e front-end, facilitando a compreensão mútua das questões técnicas. </li>
-  <li><b>Empatia -</b> Ao longo do processo de crescimento, ao nos depararmos com desafios, valorizei a diversidade de habilidades de cada integrante. Juntos, trabalhamos em conjunto, atentos às particularidades de cada um, para garantir apoio mútuo e colaboração plena. </li>
+  <li><b>Empatia -</b> Durante o projeto, notei que um dos membros da equipe estava enfrentando dificuldades com sua tarefa no React Native. Ofereci suporte e ajuda. Essa abordagem empática permitiu que todos mantivessem um ritmo saudável no projeto, sem comprometer a qualidade ou os prazos das atividades. </li>
 </ul>
