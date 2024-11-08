@@ -2,7 +2,7 @@
 
 ### Desafio
 
-Desafio proposto internamente pela Fatec, este projeto teve como objetivo a criação de um website para catalogar vagas de emprego e cursos profissionalizantes, facilitando a busca por informações para os usuários. O site incluiu vagas de emprego de diversos setores, com foco em TI, mostrando cargos, requisitos e funções. Também forneceu métricas para uma visão geral das vagas disponíveis.
+Desafio proposto internamente pela Fatec, cliente: Professor Antonio Egydio. Este projeto teve como objetivo a criação de um website para catalogar vagas de emprego e cursos profissionalizantes, facilitando a busca por informações para os usuários. O site incluiu vagas de emprego de diversos setores, com foco em TI, mostrando cargos, requisitos e funções. Também forneceu métricas para uma visão geral das vagas disponíveis.
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 
