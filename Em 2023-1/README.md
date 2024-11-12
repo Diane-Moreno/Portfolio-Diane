@@ -2,7 +2,7 @@
 
 ### Desafio
 
-O desafio proposto envolveu a colaboração com o cliente Visiona. Desenvolvemos um sistema de gerenciamento de usuários e um serviço de autenticação/autorização utilizando microserviços. O desenvolvimento seguiu boas práticas de programação e arquitetura, com testes unitários e de integração para garantir qualidade. O sistema teve uma interface para criação, visualização, edição e remoção de usuários, com atribuição de permissões individuais.
+O desafio proposto envolveu a colaboração com o cliente Visiona, que opera no setor de tecnologia espacial. Desenvolvemos um sistema de gerenciamento de usuários e um serviço de autenticação/autorização utilizando microserviços. O desenvolvimento seguiu boas práticas de programação e arquitetura, com testes unitários e de integração para garantir qualidade. O sistema teve uma interface para criação, visualização, edição e remoção de usuários, com atribuição de permissões individuais.
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2023.1)
 
