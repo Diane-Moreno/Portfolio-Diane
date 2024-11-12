@@ -2,7 +2,7 @@
 
 ### Desafio
 
-O desafio proposto envolveu a colaboração com o cliente Track Cash. O foco principal era desenvolver uma aplicação desktop que permitisse a integração dos registros de vendas de diferentes canais. O objetivo era fornecer ao cliente uma plataforma onde ele pudesse acessar e interagir com as informações de vendas desses canais.
+O desafio proposto envolveu a colaboração com o cliente Track Cash, a qual opera no setor de vendas tanto em lojas físicas quanto online. O foco principal era desenvolver uma aplicação desktop que permitisse a integração dos registros de vendas de diferentes canais. O objetivo era fornecer ao cliente uma plataforma onde ele pudesse acessar e interagir com as informações de vendas desses canais.
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 
