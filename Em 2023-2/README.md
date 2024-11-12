@@ -2,7 +2,7 @@
 
 ### Desafio
 
-O desafio proposto envolveu a colaboração com o cliente Greenneat. Esse desafio era desenvolver uma plataforma para gerenciar créditos atribuídos aos parceiros da empresa, responsáveis pela coleta nos estabelecimentos cadastrados. Esses créditos seriam posteriormente utilizados na compra de saneantes na loja virtual, incentivando a reciclagem do óleo e promovendo a sustentabilidade ambiental.
+O desafio proposto envolveu a colaboração com o cliente Greenneat, a qual trabalha no segmento de produtos de limpeza ecológicos. Esse desafio era desenvolver uma plataforma para gerenciar créditos atribuídos aos parceiros da empresa, responsáveis pela coleta nos estabelecimentos cadastrados. Esses créditos seriam posteriormente utilizados na compra de saneantes na loja virtual, incentivando a reciclagem do óleo e promovendo a sustentabilidade ambiental.
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2023.2)
 
