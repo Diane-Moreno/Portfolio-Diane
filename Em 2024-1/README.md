@@ -2,7 +2,7 @@
 
 ### Desafio
 
-O projeto consiste na criação de um sistema mobile para a Oracle destinado à gestão de parceiros. Esse sistema permitirá o cadastro de novos parceiros, a atualização de suas informações, o acompanhamento do desenvolvimento de suas competências e a geração de relatórios relevantes.
+O projeto consiste na criação de um sistema mobile para a Oracle destinado à gestão de parceiros. Esse sistema permitirá o cadastro de novos parceiros, a atualização de suas informações, o acompanhamento do desenvolvimento de suas competências e a geração de relatórios relevantes. A empresa atua de forma ampla em diferentes áreas do setor de tecnologia, e o projeto foi desenvolvido especialmente para o programa PartnerNetwork, com o propósito de apoiar os clientes na conquista de especializações e no aumento de sua relevância no mercado.
 
 ### Solução
 
