@@ -43,5 +43,6 @@ Atualmente, estou em busca de oportunidades profissionais onde possa aplicar os 
  | [3° Semestre](https://github.com/Diane-Moreno/Portfolio-Diane/tree/main/Em%202023-1)   | Sistema de gerenciamento de usuários baseado em micro serviços |
  | [4° Semestre](https://github.com/Diane-Moreno/Portfolio-Diane/tree/main/Em%202023-2)   | Plataforma de gerenciamento de créditos para reciclagem de óleo |
  | [5° Semestre](https://github.com/Diane-Moreno/Portfolio-Diane/tree/main/Em%202024-1)   | Sistema de gerenciamento de parceiros |
+ | [6° Semestre](https://github.com/Diane-Moreno/Portfolio-Diane/tree/main/Em%202024-1)   | IA para Analytics Empresarial | 
  
 </div>
