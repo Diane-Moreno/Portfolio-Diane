@@ -1,16 +1,16 @@
-### Sistema de gerenciamento de parceiros - 2024-1
+### IA para Analytics Empresarial - 2024-2
 
 ### Desafio
 
-O projeto consiste na criação de um sistema mobile para a Oracle destinado à gestão de parceiros. Esse sistema permitirá o cadastro de novos parceiros, a atualização de suas informações, o acompanhamento do desenvolvimento de suas competências e a geração de relatórios relevantes. A empresa atua de forma ampla em diferentes áreas do setor de tecnologia, e o projeto foi desenvolvido especialmente para o programa PartnerNetwork, com o propósito de apoiar os clientes na conquista de especializações e no aumento de sua relevância no mercado.
+Desafio proposto pela empresa Dom Rock, especializada no setor de tecnologia com foco em Data Lakes e Inteligência Artificial, o desafio apresentado foi explorar o vasto potencial das Inteligências Artificiais no mercado, ainda subaproveitado. Para o desenvolvimento do projeto, foi fornecida uma base de dados contendo reviews de produtos, com a sugestão de criar um chatbot específico para essa área.
 
 ### Solução
 
-A equipe desenvolveu um sistema mobile que facilita a gestão completa dos parceiros da Oracle. A solução inclui o cadastro de novos parceiros, a atualização de dados em tempo real, o monitoramento do progresso de suas qualificações e a geração automática de relatórios, garantindo uma gestão mais eficiente e integrada.
+A solução proposta envolve o desenvolvimento de um chatbot alimentado por IA generativa, direcionado para a análise de dados comerciais e avaliações de clientes. O objetivo principal é simplificar a interpretação de dados qualitativos (como comentários de consumidores), eliminando a necessidade de dashboards complexos ou gráficos detalhados. O chatbot oferece respostas claras, objetivas e diretas em linguagem natural, respondendo a perguntas específicas sobre o desempenho dos produtos e a opinião dos consumidores.
 
-Repositório do projeto (https://github.com/atomofatec/API-ORACLE)
+Repositório do projeto (https://github.com/atomofatec/API-DOMROCK)
 
-https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e-4c50-ba11-82d906f48f33
+https://github.com/user-attachments/assets/da610b44-a74d-4234-bd2a-d618bf9564dc
 
 <h1></h1>
 
@@ -18,7 +18,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <div>
     <ul>
       <li>
-        <b> Figma: </b> Utilizado para fazer o protótipo do projeto.
+        <b> Python: </b> Utilizada para o desenvolvimento dos sistemas.
       </li>
     </ul>
   </span>
@@ -34,7 +34,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <div>
     <ul>
       <li>
-        <b> Visual Studio Code: </b> Editor do código.
+        <b> Vue.js: </b> Utilizada para estruturação da interface no front-end.
       </li>
     </ul>
   </span>
@@ -42,7 +42,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <div>
     <ul>
       <li>
-        <b> JavaScript: </b> Utilizado para desenvolvimento.
+        <b> ChromaDB: </b> Utilizado para armazenamento de vetores.
       </li>
     </ul>
   </span>
@@ -50,7 +50,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <div>
     <ul>
       <li>
-        <b> React Native: </b> Utilizado para desenvolvimento mobile.
+        <b> Huggingface: </b> Utilizado para utilização de modelos de embeddings.
       </li>
     </ul>
   </span>
@@ -58,7 +58,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <div>
     <ul>
       <li>
-        <b> NodeJs: </b> Desenvolvimento back-end.
+        <b> GroqCloud: </b> Utilizado para uso de modelos de geração de texto.
       </li>
     </ul>
   </span>
@@ -66,23 +66,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <div>
     <ul>
       <li>
-        <b> MongoDB: </b> Banco de dados.
-      </li>
-    </ul>
-  </span>
-</div>
-<div>
-    <ul>
-      <li>
-        <b> Canva: </b> Criação de apresentações e imagens.
-      </li>
-    </ul>
-  </span>
-</div>
-<div>
-    <ul>
-      <li>
-        <b> AWS: </b> Hospedagem da aplicação.
+        <b> Langchain: </b> Utilizado para facilitar a integração de modelos de IA.
       </li>
     </ul>
   </span>
@@ -91,15 +75,16 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <h1></h1>
 
 ### Contribuições Pessoais
-Como integrante do Scrum Team, concentrei-me no desenvolvimento do front-end, utilizando tecnologias como React Native e JavaScript para criar interfaces que atendem aos requisitos do cliente, conforme o protótipo fornecido. Estive ativamente envolvida na criação, melhoria e implementação das telas ao longo das iterações do projeto, garantindo que os produtos entregues estivessem alinhados com as necessidades dos usuários finais. Fui responsável pela interface de cadastro de Parceiros, provas e qualificações, criando componentes e estabelecendo a conexão entre o front-end e o back-end.
+Como integrante do Scrum Team, desempenhei tarefas como associar múltiplas avaliações a produtos e revisar a interface para organizar os dados de forma clara. Também corrigi a geração de chunks, testei diferentes configurações de chunking e overlapping, e realizei testes na interface web para garantir a funcionalidade e a usabilidade do sistema.
+Além disso, atualizei a base de dados com colunas de data de submissão, para previsões a longo prazo, e de idade, para enriquecer as análises. Por fim, testei a implementação da API do Hugging Face como substituta ao uso de arquivos CSV, otimizando a gestão dos dados e contribuindo para entregas alinhadas aos requisitos do projeto.
 <h1></h1>
 
 ### Hard Skills
 <ul>
-  <li><b> Utilização React Native -</b> Faço com autonomia.</li>
-  <li><b> Utilização Java Script -</b> Faço com autonomia.</li>
-  <li><b> Utilização Git Hub -</b> Faço com autonomia.</li>
-  <li><b> Utilização NodeJs -</b> Faço com auxilio.</li>
+  <li><b> Langchain -</b> Faço com auxilio.</li>
+  <li><b> HuggingFace -</b> Faço com auxilio.</li>
+  <li><b> Git Hub -</b> Faço com autonomia.</li>
+  <li><b> ChromaDB -</b> Faço com auxilio.</li>
 </ul>
 
 <h1></h1>
