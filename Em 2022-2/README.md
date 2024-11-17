@@ -2,7 +2,11 @@
 
 ### Desafio
 
-O desafio proposto envolveu a colaboração com o cliente Track Cash, a qual opera no setor de vendas tanto em lojas físicas quanto online. O foco principal era desenvolver uma aplicação desktop que permitisse a integração dos registros de vendas de diferentes canais. O objetivo era fornecer ao cliente uma plataforma onde ele pudesse acessar e interagir com as informações de vendas desses canais.
+O desafio foi apresentado pela Track Cash, empresa parceira especializada em vendas em lojas físicas e online. A principal dificuldade estava no controle e gerenciamento dos dados financeiros de seus canais de vendas, que, sem um sistema automatizado, resultavam em atrasos e falhas operacionais. A ausência de uma solução para conciliação financeira eficiente impactava negativamente o fluxo de trabalho da empresa. Dessa forma, foi proposto o desenvolvimento de um sistema capaz de automatizar e otimizar o processo de conciliação das vendas realizadas nas diferentes plataformas.
+
+### Solução
+
+A solução proposta envolvia a criação de um sistema que permitisse coletar informações sobre as vendas realizadas pelos clientes da Track Cash. Para que o processo fosse automatizado, os clientes precisariam fornecer permissões específicas, permitindo que o sistema acessasse suas APIs e planilhas de forma segura. Esse acesso seria realizado por meio de tokens e credenciais (usuário/senha), os quais o sistema armazenaria de forma protegida, garantindo a segurança das informações. Assim, a plataforma permitiria uma conciliação financeira mais ágil e precisa, atendendo às necessidades da empresa.
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 
@@ -58,7 +62,7 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.2)
 <h1></h1>
 
 ### Contribuições Pessoais
-Fiz parte do Scrum Team, concentrando-me especialmente no front-end e na interface gráfica do usuário (GUI). Utilizei código Java e algumas facilidades oferecidas pelo ambiente de desenvolvimento NetBeans.  Além disso, participei das reuniões e revisões das sprints, contribuindo para a melhoria contínua do processo de desenvolvimento e da qualidade do produto final.
+Fiz parte do Scrum Team, com foco principal no desenvolvimento do front-end e na criação da interface gráfica do usuário (GUI). Utilizei Java como linguagem de programação e explorei as funcionalidades do ambiente de desenvolvimento NetBeans, o que facilitou a construção de interfaces dinâmicas e de fácil navegação. Essa foi uma tecnologia nova para mim, e, para aprimorar nossas habilidades, a equipe precisou estudar e se aprofundar em Java ao longo do desenvolvimento, garantindo que conseguíssemos entregar uma interface eficiente e bem estruturada.
 
 <h1></h1>
 
@@ -72,7 +76,7 @@ Fiz parte do Scrum Team, concentrando-me especialmente no front-end e na interfa
 
 ### Soft Skills
 <ul>
-  <li><b>Comunicação -</b> Adotei uma abordagem de comunicação aberta e transparente, garantindo que todos da equipe estivessem informados sobre minhas dúvidas, desafios e progresso.</li>
+  <li><b>Comunicação -</b> Durante o desenvolvimento do front-end, mantive uma comunicação constante com a equipe para alinhar os requisitos da interface gráfica e garantir que todas as funcionalidades estivessem de acordo com as expectativas do cliente. Comuniquei claramente os desafios que encontrei ao trabalhar com Java, buscando orientação quando necessário e garantindo que todos estivessem atualizados sobre o progresso das minhas tarefas.</li>
   <li><b>Proatividade -</b> Ao perceber um possível problema, tomamos a iniciativa de realocar as ideias e possíveis soluções de maneira eficaz, garantindo que o projeto permanecesse dentro do cronograma. A proatividade ajudou a evitar contratempos significativos e a manter o progresso do projeto sem interrupções. </li>
   <li><b>Trabalho em equipe -</b> Colaborei com todos da equipe. Contribuindo de forma eficaz para o projeto, compartilhando conhecimento, resolvendo problemas em conjunto e divindo tarefas. </li>
 </ul>
