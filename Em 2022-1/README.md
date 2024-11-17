@@ -2,7 +2,7 @@
 
 ### Desafio
 
-Desafio proposto internamente pela Fatec, com o cliente Professor Antônio Egydio, o projeto surgiu devido à dificuldade de encontrar vagas de emprego na área de TI em plataformas claras e com informações úteis. A ausência de um sistema organizado para catalogar essas vagas resultou na necessidade de criar uma solução para automatizar esse processo, com foco principal em áreas como Tecnologia da Informação (TI).
+Desafio proposto internamente pela Fatec, com o cliente Professor Antônio Egydio, o projeto surgiu devido à dificuldade de encontrar vagas de emprego na área de TI em plataformas. A ausência de um sistema organizado para catalogar essas vagas resultou na necessidade de criar uma solução para automatizar esse processo, com foco principal em áreas como Tecnologia da Informação (TI).
 
 ### Solução
 
