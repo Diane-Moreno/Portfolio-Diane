@@ -2,19 +2,19 @@
 
 ### Desafio
 
-Desafio proposto internamente pela Fatec, cliente: Professor Antonio Egydio. Este projeto teve como objetivo a criação de um website para catalogar vagas de emprego e cursos profissionalizantes, facilitando a busca por informações para os usuários. O site incluiu vagas de emprego de diversos setores, com foco em TI, mostrando cargos, requisitos e funções. Também forneceu métricas para uma visão geral das vagas disponíveis.
+Desafio proposto internamente pela Fatec, com o cliente Professor Antônio Egydio, o projeto surgiu devido à dificuldade de encontrar vagas de emprego na área de TI em plataformas claras e com informações úteis. A ausência de um sistema organizado para catalogar essas vagas resultou na necessidade de criar uma solução para automatizar esse processo, com foco principal em áreas como Tecnologia da Informação (TI).
+
+### Solução
+
+O projeto consistiu na criação de um website para catalogar vagas de emprego e cursos profissionalizantes, facilitando a busca por informações. O site incluiu vagas de diversos setores, com ênfase em TI, detalhando cargos, requisitos e funções. Além disso, forneceu métricas para apresentar uma visão geral das vagas disponíveis, com elementos gráficos e dados organizados de forma acessível e eficiente para os usuários.
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 
-
 ![Home1](https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif)
-
   
 ![Vagas1](https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif)
-
   
 ![Cursosq](https://user-images.githubusercontent.com/100849359/172060863-0a367980-76e4-49b9-b130-706e255ce7c2.gif)
- 
   
 ![Metricas](https://user-images.githubusercontent.com/100849359/172064402-4443fe7e-b84e-432e-8308-e2925bc4a040.gif)
 
@@ -73,7 +73,8 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2022.1)
 <h1></h1>
 
 ### Contribuições Pessoais
-Fiz parte do Scrum Team, onde desempenhei diversas funções para o projeto. Fui responsável por várias partes do desenvolvimento, destacando-se a criação de páginas front-end utilizando HTML e CSS. Nesse processo, segui o modelo do protótipo fornecido, garantindo que as necessidades e expectativas do cliente fossem atendidas com precisão e qualidade. Além das atividades de front-end, também contribuí significativamente com a raspagem de dados, utilizando Python.
+Fui integrante do Scrum Team, onde desempenhei diversas funções ao longo do desenvolvimento do projeto. Minha principal responsabilidade foi a criação de páginas front-end, utilizando HTML e CSS, para garantir uma interface visualmente atraente e funcional. Durante esse processo, segui rigorosamente o modelo de protótipo, assegurando que as necessidades e expectativas do cliente fossem atendidas com precisão. Busquei sempre manter a consistência com o layout proposto e garantir uma navegação fluida e intuitiva para os usuários finais.
+Além das atividades de front-end, minha contribuição também se estendeu à raspagem de dados, utilizando Python. Fui responsável por extrair informações de diversas fontes externas e integrá-las ao sistema. Esse processo envolveu a implementação de scripts eficientes para coletar dados relevantes sobre vagas de cursos, que foram então processados e organizados para alimentar o banco de dados do site
 
 <h1></h1>
 
@@ -88,7 +89,7 @@ Fiz parte do Scrum Team, onde desempenhei diversas funções para o projeto. Fui
 
 ### Soft Skills
 <ul>
-  <li><b>Comunicação -</b> Pratiquei minhas habilidades de comunicação com a equipe durante as reuniões e surgimento de dúvidas ao longo das sprints, visando garantir um entendimento mais claro entre todos os membros e promover uma organização mais eficiente do grupo.</li>
-  <li><b>Empatia -</b> Durante o desenvolvimento, com surgimento de conflitos, reconheci os conhecimentos individuais de cada membro. Colaborando e apoiando todos da equipe, levando em consideração suas necessidades únicas.</li>
-  <li><b>Trabalho em equipe -</b> Exercitei habilidades em trabalho em equipe ao colaborar de forma eficaz e harmoniosa, dividindo tarefas de acordo com a disponibilidade de cada integrante.</li>
+  <li><b>Comunicação -</b> Durante o desenvolvimento do sistema, identifiquei inconsistências em algumas funcionalidades e utilizei os canais internos para comunicar os problemas e propor soluções. Essa troca de informações foi essencial para alinhar as entregas às expectativas do cliente e garantir a qualidade do projeto.</li>
+  <li><b>Empatia -</b> Em um momento do projeto, percebi que um colega estava enfrentando dificuldades técnicas em sua tarefa. Ofereci apoio, explicando os passos necessários para resolver o problema e ajudando-o a concluir a atividade.</li>
+  <li><b>Trabalho em equipe -</b> Durante a implementação da funcionalidade de catalogação de vagas, trabalhei com a equipe na raspagem de dados de diversas fontes para alimentar o sistema. Colaborei na análise e processamento dos dados extraídos, ajudando a garantir que as informações sobre as vagas fossem precisas e organizadas corretamente. Esse trabalho em conjunto foi essencial para a criação de um catálogo funcional e atualizado das oportunidades disponíveis.</li>
 </ul>
