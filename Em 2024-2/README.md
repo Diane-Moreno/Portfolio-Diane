@@ -83,7 +83,7 @@ Além disso, atualizei a base de dados com colunas de data de submissão, para p
 <ul>
   <li><b> Langchain -</b> Faço com auxilio.</li>
   <li><b> HuggingFace -</b> Faço com auxilio.</li>
-  <li><b> Git Hub -</b> Faço com autonomia.</li>
+  <li><b> GitHub -</b> Faço com autonomia.</li>
   <li><b> ChromaDB -</b> Faço com auxilio.</li>
 </ul>
 
