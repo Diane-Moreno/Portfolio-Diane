@@ -2,7 +2,11 @@
 
 ### Desafio
 
-O desafio proposto envolveu a colaboração com o cliente Greenneat, a qual trabalha no segmento de produtos de limpeza ecológicos. Esse desafio era desenvolver uma plataforma para gerenciar créditos atribuídos aos parceiros da empresa, responsáveis pela coleta nos estabelecimentos cadastrados. Esses créditos seriam posteriormente utilizados na compra de saneantes na loja virtual, incentivando a reciclagem do óleo e promovendo a sustentabilidade ambiental.
+O projeto foi proposto pela Greenneat, uma empresa que atua no setor de produtos de limpeza sustentável, com o objetivo de envolver os agentes da cadeia de descarte e reciclagem de óleo de fritura usado. O problema a ser resolvido estava relacionado à dificuldade de incentivar e facilitar a entrega de óleo usado para ser reciclado e transformado em produtos sustentáveis. A empresa precisava de uma solução que facilitasse o processo de coleta e, ao mesmo tempo, recompensasse os estabelecimentos para engajá-los nesse processo de sustentabilidade.
+
+### Solução
+
+A proposta era criar uma plataforma para gerenciar créditos que seriam concedidos aos parceiros da Greenneat responsáveis pela coleta do óleo nos estabelecimentos cadastrados. Esses créditos poderiam ser utilizados para a compra de produtos de limpeza sustentável na loja virtual da empresa. A solução buscava não apenas facilitar o processo de coleta, mas também incentivar a reciclagem e promover a sustentabilidade ambiental, alinhando-se aos valores da Greenneat.
 
 Repositório do projeto (https://github.com/4DeskGroup/API-2023.2)
 
@@ -73,7 +77,8 @@ Repositório do projeto (https://github.com/4DeskGroup/API-2023.2)
 <h1></h1>
 
 ### Contribuições Pessoais
-Como integrante do Scrum Team, minha atenção estava voltada para o desenvolvimento do front-end, onde utilizei tecnologias como React e JavaScript para construir interfaces de acordo com os requisitos fornecidos pelo cliente. Estive ativamente envolvido na elaboração, melhoria e implementação das telas ao longo das iterações do projeto, assegurando que os produtos entregues estivessem em sintonia com as necessidades dos usuários finais.
+Como integrante do Scrum Team, fui responsável pelo desenvolvimento do front-end, utilizando React e JavaScript para criar interfaces dinâmicas e funcionais. Trabalhei ativamente em diversas telas do projeto, começando pela análise dos requisitos fornecidos pelo cliente, garantindo que todas as necessidades e expectativas fossem claramente compreendidas. Durante as sprints, estive envolvido na concepção, aprimoramento e implementação de funcionalidades, buscando sempre entregar uma experiência do usuário intuitiva e eficaz.
+Além disso, participei de reuniões regulares com a equipe, discutindo e revisando os protótipos para garantir que o layout e as funcionalidades atendiam às necessidades de usabilidade e acessibilidade. Ao longo do processo, também fui responsável por implementar ajustes e melhorias com base no feedback recebido, garantindo que as interfaces fossem consistentes, estéticas e otimizadas para a navegação.
 <h1></h1>
 
 ### Hard Skills
@@ -86,7 +91,7 @@ Como integrante do Scrum Team, minha atenção estava voltada para o desenvolvim
 
 ### Soft Skills
 <ul>
-  <li><b>Comunicação -</b> Participei de reuniões regulares com minha equipe para discutirmos o progresso, desafios e próximos passos </li>
-  <li><b>Gestão de tempo -</b> Gerenciei eficientemente meu tempo durante o projeto, definindo metas claras, priorizando tarefas e cumprindo prazos. </li>
-  <li><b>Organização -</b> Demonstrei habilidades na gestão do meu trabalho ao utilizar planner especificando as atividades e prazos, assegurando o cumprimento das minhas responsabilidades e contribuindo de maneira eficaz para as entregas de cada fase do projeto. </li>
+  <li><b>Comunicação -</b> Ao longo do projeto, participei de reuniões regulares com a equipe para discutir o progresso, desafios e próximos passos. Durante essas reuniões, compartilhei atualizações sobre o andamento das telas que estava desenvolvendo e discuti com os membros da equipe os pontos que precisavam de ajustes. Em um momento crítico, houve um desentendimento sobre uma funcionalidade do front-end, e utilizei minhas habilidades de comunicação para esclarecer os pontos e alinhar as expectativas entre o time. </li>
+  <li><b>Gestão de tempo -</b> A gestão do meu tempo foi crucial para garantir o cumprimento dos prazos do projeto. Durante as sprints, defini metas claras para as funcionalidades que eu deveria entregar e as dividi em tarefas menores e mais gerenciáveis. Priorizei as atividades de acordo com a urgência e importância, permitindo que eu entregasse cada tela e funcionalidade no tempo estipulado. Esse planejamento me permitiu manter um fluxo de trabalho constante e evitar a procrastinação, mesmo quando surgiam desafios. </li>
+  <li><b>Organização -</b> Durante o projeto, notei que um dos membros da equipe estava enfrentando dificuldades com sua tarefa no React Native. Ofereci suporte e ajuda. Essa abordagem empática permitiu que todos mantivessem um ritmo saudável no projeto, sem comprometer a qualidade ou os prazos das atividades. </li>
 </ul>
