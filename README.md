@@ -5,12 +5,15 @@
 <h2 align="center">Introdução</h2>
 <div align="center"><img src="https://github.com/user-attachments/assets/d390ab4d-81c6-4b89-bfe5-b5da8b94ea5c" width="200" height="250"/></div>
 <p>
-  Estudante do 6º semestre de Analise e Desenvolvimento de Sistemas - FATEC São José dos Campos - Prof. Jessen Vidal, minha jornada começou com este curso, que representou meu primeiro contato significativo com a tecnologia, onde pude explorar e desenvolver habilidades. A diversidade de metodologias apresentadas ampliou minha visão sobre as possibilidades existentes nesta área. Também cursei Computação Grafica na instituição Advanced Computação Gráfica de Artes, durante dois anos, explorei ferramentas e técnicas para criar imagens, animações e efeitos visuais. Trabalhei na posição de jovem aprendiz como auxiliar de vendas. Esta experiência, embora não diretamente relacionada à tecnologia, desempenhou um papel fundamental em minha formação. Como auxiliar de vendas, aprimorei minhas habilidades de comunicação. Também aprendi a valorizar a diversidade de habilidades e perspectivas que cada membro da equipe trazia, e como isso enriquecia nossos esforços coletivos.
+  Estudante do 6º semestre de Analise e Desenvolvimento de Sistemas - FATEC São José dos Campos - Prof. Jessen Vidal, minha jornada começou com este curso, que representou meu primeiro contato significativo com a tecnologia, onde pude explorar e desenvolver habilidades. A diversidade de metodologias apresentadas ampliou minha visão sobre as possibilidades existentes nesta área.   Escolhi cursar Análise e Desenvolvimento de Sistemas (ADS) na Fatec para explorar novas possibilidades de carreira e adquirir habilidades técnicas em uma área com grande demanda.
+</p
+><p>
+  Também cursei Computação Grafica na instituição Advanced Computação Gráfica de Artes, durante dois anos, explorei ferramentas e técnicas para criar imagens, animações e efeitos visuais. Trabalhei na posição de jovem aprendiz como auxiliar de vendas. Esta experiência, embora não diretamente relacionada à tecnologia, desempenhou um papel fundamental em minha formação. Como auxiliar de vendas, aprimorei minhas habilidades de comunicação. Também aprendi a valorizar a diversidade de habilidades e perspectivas que cada membro da equipe trazia, e como isso enriquecia nossos esforços coletivos.
 </p>
 <p>
-  Escolhi cursar Análise e Desenvolvimento de Sistemas (ADS) na Fatec para explorar novas possibilidades de carreira e adquirir habilidades técnicas em uma área com grande demanda. 
-Atualmente, estou em busca de oportunidades profissionais onde possa aplicar os conhecimentos adquiridos, desenvolver minha experiência e contribuir de forma produtiva no setor de tecnologia.
+  Atualmente, estou em busca de oportunidades profissionais onde possa aplicar os conhecimentos adquiridos, desenvolver minha experiência e contribuir de forma produtiva no setor de tecnologia.
 </p>
+
 
 <br>
 
