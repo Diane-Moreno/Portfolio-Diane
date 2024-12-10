@@ -91,7 +91,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <h1></h1>
 
 ### Contribuições Pessoais
-Como integrante do Scrum Team, concentrei-me no desenvolvimento do front-end, utilizando tecnologias como React Native e JavaScript para criar interfaces que atendem aos requisitos do cliente, conforme o protótipo fornecido. Estive ativamente envolvida na criação, melhoria e implementação das telas ao longo das iterações do projeto, garantindo que os produtos entregues estivessem alinhados com as necessidades dos usuários finais. Fui responsável pela interface de cadastro de Parceiros, provas e qualificações, criando componentes e estabelecendo a conexão entre o front-end e o back-end.
+Como integrante do Scrum Team, concentrei-me no desenvolvimento do front-end, utilizando tecnologias como React Native e JavaScript para criar interfaces que atendem aos requisitos do cliente, conforme o protótipo fornecido. Estive ativamente envolvida na criação, melhoria e implementação das telas ao longo das iterações do projeto, garantindo que os produtos entregues estivessem alinhados com as necessidades dos usuários finais. Fui responsável pela interface de cadastro de Parceiros, expertises, qualificações e visualização de progresso, criando componentes e estabelecendo a conexão entre o front-end e o back-end.
 <h1></h1>
 
 ### Hard Skills
