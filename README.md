@@ -1,6 +1,6 @@
 # Portfolio-Diane
 
-<h1 align="center">Diane Alves Moreno Pinto</h1>
+<h1 align="center">Diane A. M. P. Louro</h1>
 
 <h2 align="center">Introdução</h2>
 <div align="center"><img src="https://github.com/user-attachments/assets/d390ab4d-81c6-4b89-bfe5-b5da8b94ea5c" width="200" height="250"/></div>
